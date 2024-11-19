@@ -6,6 +6,6 @@ for a Pilates company. My keen interest is in applying impactful operations rese
 
 - 🔭 I’m currently working on a regression project to predict the likelyhood of an adult experiencing a stroke in their lifetime. 
 - 🧠 I am eager to advance my skills in operations research, with a particular focus on optimization techniques and machine learning
-- 🤝  I'm open to collaborating on Innovative projects within the healthcare sector, as well as other data-intensive applications that can benefit from my expertise.
+- 🤝  I'm open to collaborating on innovative projects that have a positive impact on society, as well as other data-intensive applications that can benefit from my expertise.
 - 📫 How to contact me: rbagade3@gatech.edu
 - ⚡ In my free time I like to to watch and learn combat sports. 
