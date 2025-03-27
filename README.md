@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Rohan Bagade
 
 I am a graduate Student in the school of Industrial and Systems engineering at Georgia Institute of Technology. My past work involves working at Americold Logistics for my senior deisgn capstone project on a supply chain logistics project, and working as a web developer 
-for a Pilates company. My keen interest is in applying impactful operations research and management science methods in healthcare.
+for a Pilates company. My keen interest is in applying impactful operations research and management science methods to solve comple real world problems.
 
 
 - 🔭 I’m currently working on a regression project that predicts the likelihood of an adult experiencing a stroke in their lifetime. 
